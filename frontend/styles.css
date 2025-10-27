@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    
+}
+h1{
+    background:rgba(199, 21, 134, 0.658) ;
+}
+
+button{
+    color:rgb(252, 252, 252);
+    background: mediumvioletred;
+    border-radius: 10px;
+    margin: 40px;
+    font-size: large;
+}
